@@ -59,6 +59,7 @@ python steganography.py
 - The application uses OpenCV for image processing, providing better performance and reliability
 - Messages are encrypted using Fernet symmetric encryption before being hidden in the image
 - You must remember the password used for encoding to successfully decode the message
+- This project is developed using claude sonnet 3.5 model
 
 ## Security Considerations
 
@@ -67,3 +68,4 @@ python steganography.py
 - The LSB steganography method, while visually undetectable, can be detected through statistical analysis
 - Always use strong passwords for better security
 - The security of the hidden message depends on keeping the password secret 
+  
