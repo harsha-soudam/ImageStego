@@ -2,6 +2,8 @@
 
 This is a simple GUI application that allows you to hide secret messages within images using steganography techniques. The application uses the Least Significant Bit (LSB) method to embed text messages into images without noticeably affecting their appearance. Messages are encrypted using a password-based encryption system for additional security.
 
+Checkout the project screenshots ![Here](Outputs)
+
 ## Features
 
 - User-friendly graphical interface
