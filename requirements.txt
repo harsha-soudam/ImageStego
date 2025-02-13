@@ -1,0 +1,3 @@
+opencv-python==4.9.0.80
+cryptography==42.0.5
+Pillow==10.2.0 
